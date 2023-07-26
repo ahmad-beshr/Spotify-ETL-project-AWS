@@ -6,7 +6,7 @@ The main objective of the project is to build an entire ETL project using AWS se
 
 ## Requirments:
 1. AWS account: you may need more than the basic AWS account as some functionalities (like Athena Query) won't work on the basic account. [AWS Free account](https://aws.amazon.com/free/)
-2. Spotify Developer account. [Spotify API] (https://developer.spotify.com/documentation/web-api)
+2. Spotify Developer account. [Spotify API](https://developer.spotify.com/documentation/web-api)
 3. Python packages/libraries:
    - Spotipy [Documentation](https://spotipy.readthedocs.io/en/2.22.1/)
    - Pandas [Documentation](https://pandas.pydata.org/docs/getting_started/install.html#installing-from-pypi)
